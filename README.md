@@ -1,1 +1,1 @@
-Binary Trees  group project
+Binary Trees project
