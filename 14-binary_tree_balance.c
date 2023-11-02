@@ -21,7 +21,7 @@ size_t binary_tree_height_b(const binary_tree_t *tree)
 /**
  * binary_tree_balance - Calculate the balance factor of a binary tree.
  * @tree: A pointer to the root node of the tree.
- * Return: The balance factor (difference between left and right subtree heights).
+ * Return: The balance factor
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
