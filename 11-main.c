@@ -9,6 +9,7 @@
  */
 int main(void)
 {
+
         binary_tree_t *root;
         size_t size;
 
